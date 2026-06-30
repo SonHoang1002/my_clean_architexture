@@ -1,4 +1,4 @@
-package com.hts.mycleanarchitexture
+package com.hts.mycleanarchitexture.presentation.ui.screen
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
